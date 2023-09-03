@@ -1,2 +1,2 @@
 # ai_training
-hello world
+https://huggingface.co/spaces/Bravefe/Artist_Classification
